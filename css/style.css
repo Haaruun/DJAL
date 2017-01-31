@@ -719,7 +719,7 @@ li.selected .cd-project-title,
   -moz-osx-font-smoothing: grayscale;
 }
 .no-touch .cd-primary-nav a:hover {
-  background-color: #a8ae7e;
+  background-color: #3cbc42;
 }
 .cd-primary-nav .cd-label {
   position: relative;
